@@ -2,15 +2,15 @@
 2. A *
 3. D. main
 4. B. background-color
-5. E. <a>
-6. C. $('#example')
-7. E. window.clientWidth
+(C) 5. E. <a> || Atribut bukan tag
+(B) 6. C. $('#example')
+(D) 7. E. window.clientWidth
 8. D.
-9. E. 201
+(A) 9. E. 201
 10. B. POST
 11. C. Content-Type
 12. C. integer
-13. E. selection sort
+(D) 13. E. selection sort
 14. C. Array
 15. B. Map
 16. B. Satu basis kode yang dipantau dalam kontrol revisi, banyak distribusi
